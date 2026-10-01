@@ -32,3 +32,6 @@ then
 else
  echo "-n $a : string length is zero"
 fi
+echo "This is new update"
+echo "this is my 2nd line"
+echo "This is my 3rd job"
