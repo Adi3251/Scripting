@@ -4,3 +4,5 @@ do
  echo "Looping ... number $i"
 done
 echo "Looping completed"
+echo "Looping completed"
+echo "Looping completed"
