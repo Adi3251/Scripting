@@ -4,6 +4,6 @@ NAME=Young-Minds
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
-echo "My name is :$NAME Aditya"
 echo "My name is : $NAME Patil"
+echo "my name is : $NAME : Aditya"
 
