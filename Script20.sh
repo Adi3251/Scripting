@@ -9,5 +9,10 @@ do
 done
 
 echo "Loop finished"
+
 echo "Loop finished"
-echo "Hi this is 2nd branch"
+echo "This is b1 branch"
+
+echo "loop finished"
+echo "HI team this is b2 branch"
+
