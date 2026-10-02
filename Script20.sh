@@ -9,3 +9,5 @@ do
 done
 
 echo "Loop finished"
+echo "loop finished"
+echo "HI team this is b2 branch"
