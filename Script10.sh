@@ -9,4 +9,5 @@ else
 echo "a is smaller than b"
 fi
 echo "b is smaller than c"
+if
 
