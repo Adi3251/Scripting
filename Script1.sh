@@ -4,5 +4,6 @@ echo "We are learning Branching"
 echo "Git fork and git clone"
 echo "Hi Team"
 echo "How are you"
-echo "what is you name"
+echi "this is marage config"
+
 
