@@ -6,4 +6,4 @@ echo "Hi Team"
 echo "How are you"
 echi "this is marage config"
 echo "This is build process"
-
+echo "prodically"
