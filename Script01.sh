@@ -5,5 +5,5 @@ echo "Git fork and git clone"
 echo "Hi Team"
 echo "How are you"
 echi "this is marage config"
-
+echo "This is build process"
 
