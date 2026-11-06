@@ -10,4 +10,3 @@ echo "a is smaller than b"
 fi
 
 
-
