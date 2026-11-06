@@ -5,6 +5,4 @@ do
 done
 echo "Looping completed"
 echo "Looping completed"
-echo "Looping completed"
-echo "Looping completed"
 
